@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: sdasara
+Build-Jdk: 1.8.0_151
+Main-Class: GoHealth.GoHealthBiGram.BiGramMain
+Created-By: Maven Integration for Eclipse
+
